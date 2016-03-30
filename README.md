@@ -6,7 +6,7 @@ Formats a version number to be a required number of points
 Examples
 --------
 ```js
-normalize_version = require('normalize-vresion')
+normalize_version = require('normalize-version')
 normalize_version('1', 3)
 // => '1.0.0'
 normalize_version('1.2', 3)
