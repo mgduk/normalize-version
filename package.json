@@ -1,6 +1,6 @@
 {
   "name": "normalize-version",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Formats a version number to be a required number of points",
   "main": "lib/normalize-version.js",
   "scripts": {
