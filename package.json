@@ -1,4 +1,8 @@
 {
+  "author": {
+    "name": "Matt Dolan",
+    "email": "matt@dolan.me"
+  },
   "name": "normalize-version",
   "version": "1.0.5",
   "description": "Formats a version number to be a required number of points",
@@ -18,7 +22,6 @@
     "normalize",
     "normalise"
   ],
-  "author": "Matt Dolan <matt@dolan.me>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mgduk/normalize-version/issues"
